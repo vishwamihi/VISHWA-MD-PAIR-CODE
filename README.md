@@ -5,7 +5,7 @@
 
   <h3> <a href="https://replit.com/@fakieVIsHWAMIHI/VISHWA-MD-PAIR-CODE"><font="courier">CLICK TO PAIR CODE :D </font></a></h3>
   <br><br>
-  <img src="https://i.ibb.co/ZxTb4sr/65a8a9c5347bc.jpg">
+
 
 <h2 align="center">VISHWA-MD
 </h2>
