@@ -3,7 +3,7 @@
 
 
 
-  <h1 style="font-family:verdana;"> <a href="https://replit.com/@fakieVIsHWAMIHI/VISHWA-MD-PAIR-CODE">Click To Pair Code </a></h1>
+  <h3 style="font-family:verdana; style="text-align:center; "> <a href="https://replit.com/@fakieVIsHWAMIHI/VISHWA-MD-PAIR-CODE">CLICK TO PAIR CODE :D </a></h3>
   <br><br>
   <img src="https://i.ibb.co/ZxTb4sr/65a8a9c5347bc.jpg">
 
